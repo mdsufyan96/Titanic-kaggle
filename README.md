@@ -1,2 +1,2 @@
 # Titanic-kaggle
-ML to predict survivals from titanic disaster
+ML problem to predict survivors of titanic disaster
